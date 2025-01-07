@@ -2,6 +2,13 @@
 This project is a landing page for **TinDog**, a fictional dog-dating app. It features a responsive design created using **HTML**, **CSS**, and **Bootstrap**, showcasing the app's features, testimonials, and partners.
 
 ---
+## Live Demo
+
+To view the live version of this project, simply click on the link below:
+
+[View the TinDog Landing Page](https://tindog-landing-page.vercel.app/)
+
+---
 
 ## Features 🌟  
 - **Responsive Design**: Optimized for different screen sizes using Bootstrap's grid system.
